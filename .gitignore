@@ -365,3 +365,4 @@ FodyWeavers.xsd
 #test
 .gitignore
 .gitattributes
+.vscode/c_cpp_properties.json

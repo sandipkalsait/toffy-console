@@ -1,7 +1,7 @@
 // toffy-console.app.cpp
 #include <iostream>
 #include <string>
-#include "toffy.h"  // Include the Toffy header file
+#include "./src/toffy.h"  // Include the Toffy header file
 
 int main() {
     Toffy toffy;  // Create an instance of the Toffy chatbot

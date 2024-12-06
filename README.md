@@ -1,4 +1,4 @@
-# Toffy-Console
+# Toffy-Console(Project is under development)
 
 Toffy-Console is a lightweight, modular AI framework designed to demonstrate core neural network functionalities, including tokenization, embeddings, attention mechanisms, feedforward layers, and more, for building language models and chatbots. This project provides a text-based interface where users can input sentences, and the model processes them through various layers to predict words based on input tokens.
 

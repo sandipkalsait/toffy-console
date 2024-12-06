@@ -7,7 +7,7 @@
 #include <algorithm>
 
 // File to store logs
-const std::string log_file = "toffy_log.txt";
+const std::string log_file = "/logs/toffy_log.txt";
 
 // Helper function to log messages
 void logMessage(const std::string& message) {
